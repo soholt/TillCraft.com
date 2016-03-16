@@ -1,0 +1,273 @@
+On 05/01/15 09:33, James Booth wrote:
+
+> Hi Gintaras, 
+>
+> I returned from annual leave this morning so will follow up on your request with our developers today. 
+>
+> Kind regards
+> James
+>
+>
+>> On 30 Dec 2014, at 18:03, Gintaras Valatka <gishopping@gmail.com> wrote:
+>>
+>> Dear Liis,
+>>
+>> I would consider this to be your internal issue.
+>>
+>> Dear James,
+>>
+>> Is this issue being considered? If yes, please provide the date on which I should expect the resolution.
+>>
+>> Regards,
+>> Gintaras Valatka
+>>
+>>
+>> On 23/12/2014 10:17, WeCare wrote:
+>>> Dear Gintaras,
+>>>
+>>> Thank you for getting in contact with us.
+>>>
+>>> Unfortunately I am not able to help you with the integration and with getting you the requested information.
+>>>
+>>> From the conversation below I can see that you have been in contact with the right people in our developing team already. I would suggest to continue discussing this with them as they are our best experts. Please also see in cc our Business Development Manager in London, James Booth for further contact.
+>>>
+>>> Best regards,
+>>> Liis Rosenberg
+>>>
+>>> Head of Customer Relationship Management
+>>>
+>>> --------------- Original Message ---------------
+>>> From: Gintaras Valatka [gishopping@gmail.com]
+>>> Sent: 21.12.2014 16:22
+>>> To: wecare@payleven.co.uk
+>>> Subject: Payleven integration
+>>>
+>>> Dear Payleven,
+>>>
+>>> I am developing an e-pos system and have integrated payleven app up to
+>>> the point where payleven app is launched with all the required info,
+>>> which I have worked out from the demo app provided. However there is no
+>>> info on what happens after payment is successful, failed, what happens
+>>> after a refund etc.
+>>>
+>>> The developers claim that they do not have the documentation.
+>>> I could keep on making payments with your device until I get failed
+>>> payment in order to capture and workout what data you provide, but you
+>>> must agree, it would be silly to do that...
+>>>
+>>> Integration of payleven app can not continue until this issue has been
+>>> sorted.
+>>>
+>>> Regards,
+>>> Gintaras Valatka
+>>> iShopping Ltd
+>>>
+>>>
+>>> -------- Forwarded Message --------
+>>> Subject: 	Re: js transformation
+>>> Date: 	Wed, 03 Dec 2014 15:49:56 +0000
+>>> From: 	Gintaras Valatka <gishopping@gmail.com>
+>>> To: 	Konrad Fekete <konrad.fekete@payleven.de>
+>>>
+>>>
+>>>
+>>> Hi Konrad,
+>>>
+>>> I have urls for all of the calls, that is not an issue, I need info on
+>>> callbacks or in other words responses from the payleven app. Do you have
+>>> a sandbox/url that I could test against?
+>>>
+>>> Thanks, Gin
+>>>
+>>> On 03/12/2014 15:36, Konrad Fekete wrote:
+>>>> Dear Mr Valatka,
+>>>>
+>>>> thank you for your mail and your interest in payleven and apologize
+>>>> that it took a little bit to come back to you.
+>>>>
+>>>> Unfortunately there is no documentation for that.
+>>>> For the time being you will need to look at generatePaymentUrl()
+>>>> method inside paylevenWebAppApi.inc.php file which is part of the
+>>>> library you have received in the API package and specify the listed
+>>>> values according to that.
+>>>>
+>>>> If you have any specific question please let me know and I do my best
+>>>> to support you!
+>>>>
+>>>> Best regards
+>>>> Konrad Fekete
+>>>>
+>>>> 2014-12-03 11:17 GMT+01:00 Gintaras Valatka <gishopping@gmail.com
+>>>> <mailto:gishopping@gmail.com>>:
+>>>>
+>>>>     Hi Konrad,
+>>>>
+>>>>     Thank you for prompt response.
+>>>>
+>>>>     I am not developing in php and I would not want to go through php
+>>>>     code to extract the required info, make errors.
+>>>>     Can you please provide detailed params supplied in callbacks to my
+>>>>     app on: payment, details, history and refund in case of success,
+>>>>     error, what is valid response etc.
+>>>>
+>>>>     I have extracted calls to Payleven app from php, so no need to
+>>>>     provide those.
+>>>>
+>>>>     --
+>>>>
+>>>>     There is another bug in php example:
+>>>>
+>>>>     I tried the PaylevenWebAppApi example, it seem to be a bug in
+>>>>     there too.
+>>>>
+>>>>     When run it, I get url:
+>>>>
+>>>>     paylevenweb://payleven/payment/1.2/9a84156e1f2b650418197ee271b727517189b313f21e1df82fb05f9af8549aad?domain=yourwebsite.com
+>>>>     <http://yourwebsite.com>&scheme=http&callback=pathToTheApp&appName=NameOfYourWebAppShownInPayleven&price=123¤cy=EUR&description=description&orderId=234
+>>>>
+>>>>     After price, I get price=123¤cy=EUR which should be
+>>>>     price=123&currency=EUR
+>>>>
+>>>>     (method: $url = $paylevenapi->generatePaymentUrl($price, $orderId,
+>>>>     $description);)
+>>>>
+>>>>
+>>>>     Thank you, Gin
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>     On 01/12/2014 09:50, Konrad Fekete wrote:
+>>>>>     Dear Mr Valatka,
+>>>>>
+>>>>>     thank you for your mail and highlighting the malfunction of the
+>>>>>     mentioned entry field.
+>>>>>     It has been reported to the responsible developer who will fix
+>>>>>     this bug very soon.
+>>>>>
+>>>>>     If there is anything I can help with in terms of integrating the
+>>>>>     payleven mobile API or you have questions in general about
+>>>>>     payleven, please don't hesitate to ask me.
+>>>>>
+>>>>>     Best regards
+>>>>>     Konrad Fekete
+>>>>>
+>>>>>     2014-11-30 6:15 GMT+01:00 Gintaras Valatka <gishopping@gmail.com
+>>>>>     <mailto:gishopping@gmail.com>>:
+>>>>>
+>>>>>         Dear developers,
+>>>>>
+>>>>>         A small js bug, on https://service.payleven.com/uk/developer
+>>>>>         page that does not allow me to enter https in "Your website
+>>>>>         URL *"
+>>>>>         When I enter my url https://ishopping.ltd.uk and move onto
+>>>>>         the next field it is transformed into
+>>>>>         http://s://ishopping.ltd.uk <http://ishopping.ltd.uk>
+>>>>>
+>>>>>         --
+>>>>>         Regards,
+>>>>>         Gintaras Valatka
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>>     --
+>>>>>
+>>>>>     *
+>>>>>     Konrad Fekete*
+>>>>>     IT Project Manager
+>>>>>
+>>>>>     Payleven Holding GmbH  | Pappelallee 78| 10437 Berlin |  Germany
+>>>>>     Mobile: +49 176 83266842|
+>>>>>     E-Mail: konrad.fekete@payleven.de
+>>>>>     <mailto:konrad.fekete@payleven.de>  | www.payleven.com
+>>>>>     <http://www.payleven.com>
+>>>>>
+>>>>>     Geschäftsführer: Rafael Otero, Konstantin Wolff, Alston Zecha
+>>>>>     Eingetragen beim Amtsgericht Berlin Charlottenburg, HRB 138390 B,
+>>>>>     USt-ID DE815358591
+>>>>>
+>>>>>     This email may contain confidential and / or privileged
+>>>>>     information. If you are not the intended recipient - or have
+>>>>>     received this e-mail in error - please notify the sender
+>>>>>     immediately and destroy this e-mail. Any unauthorized copying,
+>>>>>     disclosure or distribution of the material in this e-mail is
+>>>>>     strictly forbidden.
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> -- 
+>>>>
+>>>> *
+>>>> *
+>>>>
+>>>> *Konrad Fekete*
+>>>>
+>>>> IT Project Manager
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> www.payleven.com <http://www.payleven.com/> |
+>>>> konrad.fekete@payleven.de <mailto:konrad.fekete@payleven.de>
+>>>>
+>>>> Mobile: +49 176 83266842
+>>>>
+>>>> Payleven Holding GmbH | Pappelallee 78 - 79 | 10437 Berlin | Germany
+>>>>
+>>>> Follow us
+>>>>
+>>>> <https://www.facebook.com/payleven?fref=ts> <https://twitter.com/payleven>
+>>>>
+>>>>
+>>>> Geschäftsführer: Rafael Otero, Konstantin Wolff, Alston Zecha
+>>>> Eingetragen beim Amtsgericht Berlin Charlottenburg, HRB 138390 B,
+>>>> USt-ID DE815358591
+>>>>
+>>>> This email may contain confidential and / or privileged information.
+>>>> If you are not the intended recipient - or have received this e-mail
+>>>> in error - please notify the sender immediately and destroy this
+>>>> e-mail. Any unauthorized copying, disclosure or distribution of the
+>>>> material in this e-mail is strictly forbidden.
+>>>
+>>
+>>
+>> -- 
+>> --
+>> Gintaras Valatka
+>> 07882 856298
+>>
+>
+> James Booth
+> Business Development
+> Mob.: 07867361795  |  www.payleven.co.uk  |  james.booth@payleven.co.uk
+>
+> ZenPay UK Limited - trading as payleven | 11th Floor Parker Tower, 43-49 Parker Street | London WC2B 5PS | United Kingdom
+>
+> Follow us
+>
+>
+>    
+>
+>
+>
+> Directors: Rafael Otero, Alston Zecha, Alexander Zumdieck
+> Company registration number: 08016695 | VAT ID United Kingdom: GB138737189 
+> ZenPay UK Ltd is authorised and regulated by the Financial Conduct Authority of the United Kingdom as a payment institution, FCA registration number 581071. Contact details of the Financial Conduct Authority can be found at http://www.fca.org.uk/site-info/contact
+>
+> NOTE: This e-mail contains proprietary information some or all of which may be legally privileged. It is for the intended recipients only. If you are not an intended recipient you must not use, store, disclose, distribute, copy, print, or rely on this e-mail in any form or manner. ZenPay UK Ltd t/a payleven disclaim all responsibility and accept no liability (including in negligence) for the consequences for any person acting, or refraining from acting, on such information. 
+>
+> If you have received this E-mail message in error, please notify us immediately by telephone on +44 (0) 20 7112 8211. Please also destroy and delete the message from your computer. 
+>
+> For further details about payleven please visit http://www.payleven.co.uk.
+>
+>
+>
+>
+​
+
+-- 
+--
+Gintaras Valatka
+07882 856298
