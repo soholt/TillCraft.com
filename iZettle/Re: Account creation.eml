@@ -1,0 +1,349 @@
+Delivered-To: gishopping@gmail.com
+Received: by 10.64.226.133 with SMTP id rs5csp1564162iec;
+        Mon, 9 Mar 2015 09:48:52 -0700 (PDT)
+X-Received: by 10.107.39.132 with SMTP id n126mr49831071ion.75.1425919731653;
+        Mon, 09 Mar 2015 09:48:51 -0700 (PDT)
+Return-Path: <help.uk@izettle.com>
+Received: from mail-pd0-f174.google.com (mail-pd0-f174.google.com. [209.85.192.174])
+        by mx.google.com with ESMTPS id wh1si12009781pab.239.2015.03.09.09.48.50
+        for <gishopping@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 09 Mar 2015 09:48:51 -0700 (PDT)
+Received-SPF: pass (google.com: domain of help.uk@izettle.com designates 209.85.192.174 as permitted sender) client-ip=209.85.192.174;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of help.uk@izettle.com designates 209.85.192.174 as permitted sender) smtp.mail=help.uk@izettle.com
+Received: by mail-pd0-f174.google.com with SMTP id fl12so64947099pdb.9
+        for <gishopping@gmail.com>; Mon, 09 Mar 2015 09:48:50 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:date:from:reply-to:to:message-id:in-reply-to
+         :subject:mime-version:content-type;
+        bh=gNW1MFKdTCN1aej/0uFy/AlnTrpRYWrPcvYsBrbuvvQ=;
+        b=Z7TesUOICERSK8PUU9F00e9gy4IA4xrViiTpUEEm9uM3PjcziDxtXC8tfyFxiY7niB
+         clFlCFHo5bDe8lBhy34ngHRWhheQbD/iwyXCViNoRoWhR9I22bYJmGnrmbxO61R1XGH9
+         BWdRK9LOEpqEP6lwATo4fUWfG+ZqJP0nE8R/0o2HbSU0oWISFDTRy5zs++jPHUS7zLh7
+         YOB9r/VUlW+wip8E9RxCGpR0fXihquM+SAFRh9+K/EAgszs2oOqSfrhBOAUbdoLq3686
+         WSaG24VsACcLx5mc2kkiXaMUG09M3gqCOtl5tM/vbXTXaqPErqZIxeYxz6bZm+H95GLD
+         COsQ==
+X-Gm-Message-State: ALoCoQkZ1dEegenkWFW94XmoTaPrQN5wmF7/dijfOAeIcSeeh77zm1MmOcLRoIqpDvBqaZPGEcws
+X-Received: by 10.70.92.3 with SMTP id ci3mr55970420pdb.147.1425919729298;
+        Mon, 09 Mar 2015 09:48:49 -0700 (PDT)
+Return-Path: <help.uk@izettle.com>
+Received: from backend10.internal.desk.com ([50.18.59.140])
+        by mx.google.com with ESMTPSA id oy3sm20034113pdb.56.2015.03.09.09.48.44
+        for <gishopping@gmail.com>
+        (version=TLSv1.1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 09 Mar 2015 09:48:45 -0700 (PDT)
+Date: Mon, 9 Mar 2015 16:48:44 +0000
+From: iZettle Support UK <help.uk@izettle.com>
+Reply-To: iZettle Support UK <help.uk@izettle.com>
+To: gishopping@gmail.com
+Message-Id: <54fdce82cfe91_13fdc4fe8c2132d@help.izettle.com>
+In-Reply-To: <54FB526B.1090107@gmail.com>
+Subject: Re: Account creation
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=mimepart_54fdceec6a26_216d3cbe8c1654c
+X-Mailer: Desk.com Support Platform
+
+
+--mimepart_54fdceec6a26_216d3cbe8c1654c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: Quoted-printable
+
+__________________________________
+Type your response ABOVE THIS LINE to reply
+
+-------------------------------------------------------------------------=
+-----------------------------------
+Customer: iZettle
+Subject: Account creation
+-------------------------------------------------------------------------=
+-----------------------------------
+
+iZettle Support - Deanne | MAR 09, 2015 | 05:48PM CET
+
+Hello,
+
+Thank you for your email.
+
+We need to get to know our customers as well as possible to keep iZettle =
+safe.
+ One part in this process is that we do a credit report on all businesses=
+ and individuals as part of their registration with us. =
+
+Unfortunately, the information in the report meant we weren=E2=80=99t abl=
+e to approve your application.
+
+
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=
+=94=E2=80=93
+
+<em>Please, rate my message here:</em>
+
+http://www.nicereply.com/izettle/22376796/675310
+
+
+Best regards,
+
+Deanne
+iZettle Support
+
+iZettle =C2=AE
+www.izettle.com
+-------------------------------------------------------------------------=
+-----------------------------------
+
+Gintaras | MAR 07, 2015 | 08:33PM CET  | Original message =
+
+
+Dear support,
+
+I am unable to create an account with you.
+
+Name & Registered Office:
+*ISHOPPING LTD*
+UNIT 8 GREEN LANE BUSINESS PARK
+GREEN LANE
+LONDON
+SE9 3TL*
+Company No. 07113528*
+
+
+		=
+
+*Status*: Active
+*Date of Incorporation*: 29/12/2009
+
+*Country of Origin*: United Kingdom
+*Company Type*: Private Limited Company
+*Nature of Business (SIC)*:
+62090 - Other information technology service activities
+*Accounting Reference Date*: 31/12
+*Last Accounts Made Up To*:31/12/2013(TOTAL EXEMPTION SMALL)
+*Next Accounts Due*: 30/09/2015
+*Last Return Made Up To*:29/12/2014
+*Next Return Due*: 26/01/2016
+*Mortgage: Number of charges:*( 0 outstanding / 0 satisfied / 0 part =
+
+satisfied )*
+Last Members List*: 29/12/2014
+*Previous Names:*
+No previous name information has been recorded over the last 20 years.
+
+
+-- =
+
+--
+Gintaras Valatka
+07882 856298
+
+
+
+
+
+
+-------------------------------------------------------------------------=
+-----------------------------------
+This message was sent to gishopping@gmail.com in reference to Case #: 675=
+310.
+-------------------------------------------------------------------------=
+-----------------------------------
+
+
+
+[[3ed6afb560890712e2360595496c45e422563b18-395023164]]=
+
+--mimepart_54fdceec6a26_216d3cbe8c1654c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: Quoted-printable
+
+<div style=3D'color:#ffffff; display: none !important;'>_________________=
+_________________</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%"> =
+
+<tr> =
+
+<td align=3D"center" valign=3D"top">
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> =
+
+<tr>
+<td valign=3D"top" style=3D"color:#333; font-family:Arial; font-size:14px=
+; line-height:150%; text-align:left;">
+
+<table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"100%"> =
+
+<tr>
+<td valign=3D"top">
+
+<div>
+<span style=3D"font-size:90%; color:#777;">Type your response ABOVE THIS =
+LINE to reply</span>
+
+<hr />
+
+<div style=3D"background-color:#efefef; font-size:100%; padding:5px; marg=
+in:10px 0 0 0;">
+<strong>Gintaras Valatka</strong><br/>
+<strong>Subject:</strong> Account creation
+</div>
+
+<hr />
+
+
+
+
+
+<span style=3D"font-size:80%;">MAR 09, 2015 &nbsp;|&nbsp; 05:48PM CET</sp=
+an>
+<br />
+
+<strong>iZettle Support - Deanne</strong> replied:<br/>
+<div>Hello,<br/><br/>Thank you for your email.<br/><br/>We need to get to=
+ know our customers as well as possible to keep iZettle safe.<br/> One pa=
+rt in this process is that we do a credit report on all businesses and in=
+dividuals as part of their registration with us. <br/>Unfortunately, the =
+information in the report meant we weren=E2=80=99t able to approve your a=
+pplication.</div>
+  =
+
+
+
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=
+=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94  <br>
+
+
+  =
+
+
+<div style=3D"margin-top:10px;"> Best regards,
+<br />
+
+<br />
+Deanne
+<br />
+iZettle Support
+<br />
+
+<br />
+iZettle =C2=AE
+<br />
+www.izettle.com</div>
+
+
+  =
+
+
+<p style=3D"font-family: Arial; font-size: 12px;"><b>How did I do?</b></p=
+><p style=3D"font-family: Arial; font-size: 12px;"><a href=3D"https://app=
+.customerthermometer.com/?template=3Dlog_feedback&hash=3Dae48e5c2&embed_d=
+ata=3DdGVtcGVyYXR1cmVfaWQ9MSZ0aGVybW9tZXRlcl9pZD0xMDA2NQ=3D=3D&e=3Dgishop=
+ping@gmail.com&f=3DGintaras&l=3DValatka&c=3DChurn&c1=3DCase 675310&c2=3DR=
+eg - Denied,UK&c3=3DiZettle Support - Deanne"><img style=3D"margin-right:=
+ 5px; border: none;" src=3D"https://app.customerthermometer.com/uploads/2=
+515/icon_sets/613/94263_superhappy.jpg" alt=3D"Gold Star" title=3D"Gold S=
+tar" /></a>
+ =
+
+<a href=3D"https://app.customerthermometer.com/?template=3Dlog_feedback&h=
+ash=3D432bec7a&embed_data=3DdGVtcGVyYXR1cmVfaWQ9MiZ0aGVybW9tZXRlcl9pZD0xM=
+DA2NQ=3D=3D&e=3Dgishopping@gmail.com&f=3DGintaras&l=3DValatka&c=3DChurn&c=
+1=3DCase 675310&c2=3DReg - Denied,UK&c3=3DiZettle Support - Deanne"><img =
+style=3D"margin-right: 5px; border: none;" src=3D"https://app.customerthe=
+rmometer.com/uploads/2515/icon_sets/613/86417_happy.jpg" alt=3D"Green Lig=
+ht" title=3D"Green Light" /></a>
+ =
+
+<a href=3D"https://app.customerthermometer.com/?template=3Dlog_feedback&h=
+ash=3D08742af9&embed_data=3DdGVtcGVyYXR1cmVfaWQ9MyZ0aGVybW9tZXRlcl9pZD0xM=
+DA2NQ=3D=3D&e=3Dgishopping@gmail.com&f=3DGintaras&l=3DValatka&c=3DChurn&c=
+1=3DCase 675310&c2=3DReg - Denied,UK&c3=3DiZettle Support - Deanne"><img =
+style=3D"margin-right: 5px; border: none;" src=3D"https://app.customerthe=
+rmometer.com/uploads/2515/icon_sets/613/44814_neutral.jpg" alt=3D"Yellow =
+Light" title=3D"Yellow Light" /></a>
+ =
+
+<a href=3D"https://app.customerthermometer.com/?template=3Dlog_feedback&h=
+ash=3Dc1a5ce91&embed_data=3DdGVtcGVyYXR1cmVfaWQ9NCZ0aGVybW9tZXRlcl9pZD0xM=
+DA2NQ=3D=3D&e=3Dgishopping@gmail.com&f=3DGintaras&l=3DValatka&c=3DChurn&c=
+1=3DCase 675310&c2=3DReg - Denied,UK&c3=3DiZettle Support - Deanne"><img =
+style=3D"margin-right: 5px; border: none;" src=3D"https://app.customerthe=
+rmometer.com/uploads/2515/icon_sets/613/38702_sad.jpg" alt=3D"Red Light" =
+title=3D"Red Light" /></a>
+</p><p style=3D"font-family: Arial; font-size: 12px;">Your feedback is va=
+luable and will only take 5 seconds.<br />Click or tap the rating which b=
+est represents your experience.</p>
+  =
+
+<hr />
+
+
+
+
+
+<span style=3D"font-size:80%;">MAR 07, 2015 &nbsp;|&nbsp; 08:33PM CET
+</span>
+<br />
+  =
+
+  =
+
+
+<span style=3D"background-color: #efefef; font-weight:strong;">Original m=
+essage</span><br/>
+
+
+<strong>
+
+  Gintaras
+
+</strong>
+
+
+  wrote:<br /><br />
+
+
+Dear support,<br/><br/>I am unable to create an account with you.<br/><br=
+/>Name &amp; Registered Office:<br/>*ISHOPPING LTD*<br/>UNIT 8 GREEN LANE=
+ BUSINESS PARK<br/>GREEN LANE<br/>LONDON<br/>SE9 3TL*<br/>Company No. 071=
+13528*<br/><br/><br/>		<br/>*Status*: Active<br/>*Date of Incorporation*:=
+ 29/12/2009<br/><br/>*Country of Origin*: United Kingdom<br/>*Company Typ=
+e*: Private Limited Company<br/>*Nature of Business (SIC)*:<br/>62090 - O=
+ther information technology service activities<br/>*Accounting Reference =
+Date*: 31/12<br/>*Last Accounts Made Up To*:31/12/2013(TOTAL EXEMPTION SM=
+ALL)<br/>*Next Accounts Due*: 30/09/2015<br/>*Last Return Made Up To*:29/=
+12/2014<br/>*Next Return Due*: 26/01/2016<br/>*Mortgage: Number of charge=
+s:*( 0 outstanding / 0 satisfied / 0 part <br/>satisfied )*<br/>Last Memb=
+ers List*: 29/12/2014<br/>*Previous Names:*<br/>No previous name informat=
+ion has been recorded over the last 20 years.<br/><br/><br/>-- <br/>--<br=
+/>Gintaras Valatka<br/>07882 856298<br/><br/><br/>
+<hr />
+
+
+
+
+<div style=3D"background-color:#fafafa; border:0; font-size:80%; padding:=
+2px;"> This message was sent to gishopping@gmail.com in reference to Case=
+ #: 675310. <br />
+</div>
+</div>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<span style=3D'color:#ffffff'>[[3ed6afb560890712e2360595496c45e422563b18-=
+395023164]]</span>=
+
+--mimepart_54fdceec6a26_216d3cbe8c1654c--
